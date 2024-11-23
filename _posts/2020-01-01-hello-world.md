@@ -52,7 +52,7 @@ Sports – I am competitive
 
 |  |  | **Skills** | **Exit Options** |
 | ---- | ---- | ---- | ---- |
-| _Consultant and Advisor_ | **_BNM Generalist_** | ·            Policy Development and Advisory<br><br>·            Structuring Problems<br><br>·            Communication<br><br>·            PowerPoint & Excel | ·         Deputy Director, Consultant, C-Suite, Corporate Strategy |
+| _Consultant and Advisor_ | **eneralist_** | ·            Policy Development and Advisory<br><br>·            Structuring Problems<br><br>·            Communication<br><br>·            PowerPoint & Excel | ·         Deputy Director, Consultant, C-Suite, Corporate Strategy |
 | _Orator and Professional_ | **Commercial Litigator** | ·            Analytical, Research, and Communication Skills | ·         Litigation Powerhouse<br><br>·         Boutique Firm<br><br>·         Chambers |
 | _Corporate Transactions_ | **Corporate Lawyer** | ·            Drafting & Advisory<br><br>·            Project Management | ·         In-house counsel,<br><br>·         Law Firm Partner |
 
