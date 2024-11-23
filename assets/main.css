@@ -6,7 +6,7 @@ body {
   max-width: 40rem;
   padding: 2rem;
   margin: auto;
-  background: #fafafa; 
+  background: #ecd776; 
 }
 
 header {
@@ -20,7 +20,8 @@ img {
 }
 
 a {
-  color: #0074D9; 
+  color: #010203; 
+  font-weight: bold;
 }
 
 h1, h2, strong {
